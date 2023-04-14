@@ -1,3 +1,3 @@
 # hyperblog
 Mi primer Blog
-Este blog es colaborativo
+Este blog es un blog colaborativo
